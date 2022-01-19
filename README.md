@@ -2,18 +2,17 @@
 ![age](https://img.shields.io/badge/Age-22-blue)
 ![living](https://img.shields.io/badge/Peru-3c9)
 
-![KeithStats](https://raw.githubusercontent.com/KeithCaballeroRodriguez/KeithCaballeroRodriguez/main/font.png)
+![KeithStats](https://raw.githubusercontent.com/KeithCaballeroRodriguez/KeithCaballeroRodriguez/main/logos/profile.png)
 
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
   
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/django.jpg?raw=true" height="60" width="60">
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+<img src="https://raw.githubusercontent.com/KeithCaballeroRodriguez/KeithCaballeroRodriguez/main/logos/r.png" height="50" width="60">
+<img src="https://raw.githubusercontent.com/KeithCaballeroRodriguez/KeithCaballeroRodriguez/main/logos/python.png" height="50" width="60">
+<img src="https://raw.githubusercontent.com/KeithCaballeroRodriguez/KeithCaballeroRodriguez/main/logos/azure.png" height="50" width="60">
+<img src="https://raw.githubusercontent.com/KeithCaballeroRodriguez/KeithCaballeroRodriguez/main/logos/aws.png" height="50" width="60">
+<img src="https://raw.githubusercontent.com/KeithCaballeroRodriguez/KeithCaballeroRodriguez/main/logos/gcp.png" height="50" width="60">
 
 <br>
 

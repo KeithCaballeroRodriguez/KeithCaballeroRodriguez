@@ -1,5 +1,7 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=PROFILE+VIEWS)
+![views](https://komarev.com/ghpvc/?username=KeithCaballeroRodriguez&color=blue&label=PROFILE+VIEWS)
+![age](https://img.shields.io/badge/Age-22-blue)
+![living](https://img.shields.io/badge/Peru-3c9)
+
 ![KeithStats](https://raw.githubusercontent.com/KeithCaballeroRodriguez/KeithCaballeroRodriguez/main/font.png)
 
 ## 👨‍💻 Languages and Tools
@@ -15,8 +17,8 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Do you want to know 👋 more about me ⭐ follow me!
+<p align="center">
   <a 
      href="https://linkedin.com/in/keith-caballero-rodriguez" 
      target="blank">

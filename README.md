@@ -1,6 +1,52 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=PROFILE+VIEWS)
 ![KeithStats](https://raw.githubusercontent.com/KeithCaballeroRodriguez/KeithCaballeroRodriguez/main/font.png)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a 
+     href="https://linkedin.com/in/keith-caballero-rodriguez" 
+     target="blank">
+    <img 
+         align="center" 
+         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" 
+         alt="keith-caballero-rodriguez" 
+         height="30" width="40"/>
+  </a>
+  <a 
+     href="https://www.instagram.com/keith.caballero" 
+     target="blank">
+    <img 
+         align="center" 
+         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" 
+         alt="keith.caballero" height="30" width="40" />
+  </a>
+  <a 
+     href="https://www.youtube.com/user/noe12ist" 
+     target="blank">
+    <img 
+         align="center" 
+         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" 
+         alt="KeithStats" height="30" width="40" /></a>
+</p>
+
+<p>
+  <img 
+       align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=KeithCaballeroRodriguez&show_icons=true&locale=en&layout=compact" 
+       alt="KeithCaballeroRodriguez" 
+   />
+</p>
+
+<p>&nbsp;
+  <img 
+       align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=KeithCaballeroRodriguez&show_icons=true&locale=en" 
+       alt="KeithCaballeroRodriguez" 
+  />
+</p>
+
+
 <!--
 **KeithCaballeroRodriguez/KeithCaballeroRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,6 +2,19 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=PROFILE+VIEWS)
 ![KeithStats](https://raw.githubusercontent.com/KeithCaballeroRodriguez/KeithCaballeroRodriguez/main/font.png)
 
+## 👨‍💻 Languages and Tools
+
+<div align="center">
+  
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/django.jpg?raw=true" height="60" width="60">
+<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a 

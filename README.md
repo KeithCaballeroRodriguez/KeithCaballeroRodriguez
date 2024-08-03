@@ -3,7 +3,7 @@
 ![age](https://img.shields.io/badge/Age-25-blue)
 ![living](https://img.shields.io/badge/Peru-3c9)
 
-![KeithStats](https://raw.githubusercontent.com/KeithCaballeroRodriguez/KeithCaballeroRodriguez/main/logos/profile.png)
+<> ![KeithStats](https://raw.githubusercontent.com/KeithCaballeroRodriguez/KeithCaballeroRodriguez/main/logos/profile.png)
 
 ## 👨‍💻 Languages and Tools
 

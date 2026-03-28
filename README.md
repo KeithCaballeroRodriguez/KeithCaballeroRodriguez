@@ -91,13 +91,11 @@ Sistema end-to-end de predicción de calidad para una planta de flotación de mi
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeithCaballeroRodriguez&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=KeithCaballeroRodriguez&show_icons=true&locale=en&theme=dark&hide_border=true" height="150"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KeithCaballeroRodriguez&theme=darkhub&no-frame=true&column=6&margin-w=10"/>
 
 </div>
 

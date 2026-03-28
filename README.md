@@ -75,6 +75,16 @@ Sistema end-to-end de predicción de calidad para una planta de flotación de mi
 | **Agente IA** | Grafo LangGraph 10 nodos — predicción + SHAP + escenarios → recomendaciones |
 | **Deploy** | FastAPI + Streamlit + MLflow en GCP Cloud Run |
 
+### [HomePrice ML Agent](https://github.com/KeithCaballeroRodriguez/homeprice-ml-agent)
+
+App de demostración MLOps que combina un modelo de regresión LightGBM con un agente conversacional LangGraph, expuesto vía FastAPI y visualizado en Streamlit con trazabilidad completa en MLflow.
+
+| Componente | Detalle |
+|------------|---------|
+| **Modelo** | LightGBM para predicción de precios de vivienda |
+| **Agente IA** | LangGraph + herramientas de consulta y explicación |
+| **Deploy** | FastAPI + Streamlit + MLflow en Docker Compose |
+
 ---
 
 ## 💼 Experiencia
